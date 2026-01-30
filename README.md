@@ -21,7 +21,7 @@
 - [Challenges & Solutions](#challenges--solutions)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-
+- [License](#license)
 ---
 
 ## 🎯 Project Overview
@@ -476,9 +476,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Tibrey](https://github.com/Tibrey)
+- LinkedIn: [tibra-shrestha](https://www.linkedin.com/in/tibra-shrestha-266a1a280/)
 
 ---
 
